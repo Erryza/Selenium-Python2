@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "Erryza",
+    "lastName": "Nur Alif",
+    "userEmail": "erryza@gmail.com",
+    "age": 23,
+    "salary": 8000000,
+    "department": "IT"
+  },
+  {
+    "firstName": "Ellsa",
+    "lastName": "Salsabila",
+    "userEmail": "ellsa@gmail.com",
+    "age": 15,
+    "salary": 800000,
+    "department": "House"  
+  },
+  {
+    "firstName": "Eadlyn",
+    "lastName": "Putra",
+    "userEmail": "eadlyn@gmail.com",
+    "age": 12,
+    "salary": 0,
+    "department": "House"
+  }
+]
