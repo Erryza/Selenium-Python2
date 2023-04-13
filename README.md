@@ -1,4 +1,5 @@
-Create automation from the following page: https://demoqa.com/webtables Create automation from the following page: https://demoqa.com/webtables
+Create automation from the following page: 
+https://demoqa.com/webtables
 
 Enter 3 pieces of user data as follows using Selenium Python Firstname, Lastname, Age, Email, Salary, and Department.
 
